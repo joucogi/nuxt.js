@@ -1875,13 +1875,12 @@
     error-stack-parser "^2.0.0"
     string-width "^2.0.0"
 
-"@nuxt/loading-screen@^2.0.0-rc.2":
-  version "2.0.0-rc.2"
-  resolved "https://registry.npmjs.org/@nuxt/loading-screen/-/loading-screen-2.0.0-rc.2.tgz#0c0525bd870d367391d0a5fe9ea3cf526ba1c499"
-  integrity sha512-wHiwmmKSIyH92gwZW9GohopcaW68Q2UA7Qu029MfWh5hrBaqcv4x949v9EzLssLJlHFpc7io5tJBS8uz2mh6Hg==
+"@nuxt/loading-screen@^2.0.0-rc.3":
+  version "2.0.0-rc.3"
+  resolved "https://registry.npmjs.org/@nuxt/loading-screen/-/loading-screen-2.0.0-rc.3.tgz#b5b106c08950fe6e01c0a055964a1f92918b1b40"
+  integrity sha512-QRk78akwn9WPh01nK/9xOZgciCKFB06IgKSMXnT9H6JNlVk+7RkbFodjjbjMELBuy8q90CJ6eSD9jQOlEZZnPQ==
   dependencies:
     connect "^3.7.0"
-    fs-extra "^9.0.0"
     get-port-plz "^0.0.6"
     node-res "^5.0.1"
     serve-static "^1.14.1"
@@ -11417,10 +11416,10 @@ rollup-plugin-license@^2.1.0:
     spdx-expression-validate "2.0.0"
     spdx-satisfies "5.0.0"
 
-rollup@^2.15.0:
-  version "2.15.0"
-  resolved "https://registry.npmjs.org/rollup/-/rollup-2.15.0.tgz#1324633188c7f82138bd3bdc99416009ee541f48"
-  integrity sha512-HAk4kyXiV5sdNDnbKWk5zBPnkX/DAgx09Kbp8rRIRDVsTUVN3vnSowR7ZHkV6/lAiE6c2TQ8HtYb72aCPGW4Jw==
+rollup@^2.16.0:
+  version "2.16.0"
+  resolved "https://registry.npmjs.org/rollup/-/rollup-2.16.0.tgz#f45ed04a2cafdb4d1b71a2a77b5673334d811a32"
+  integrity sha512-95NglykUQAhl+mTFZqVvGUWDoGHV4/XanOZBbR7LOwTKODde5yFNHfVDZEnERBMuQViDuYaxOlFW87i1GQMihA==
   optionalDependencies:
     fsevents "~2.1.2"
 
@@ -13186,10 +13185,10 @@ vue-no-ssr@^1.1.1:
   resolved "https://registry.npmjs.org/vue-no-ssr/-/vue-no-ssr-1.1.1.tgz#875f3be6fb0ae41568a837f3ac1a80eaa137b998"
   integrity sha512-ZMjqRpWabMPqPc7gIrG0Nw6vRf1+itwf0Itft7LbMXs2g3Zs/NFmevjZGN1x7K3Q95GmIjWbQZTVerxiBxI+0g==
 
-vue-router@^3.3.3:
-  version "3.3.3"
-  resolved "https://registry.npmjs.org/vue-router/-/vue-router-3.3.3.tgz#92603966921f3f0c7e9ff3881cf0b7ab311533df"
-  integrity sha512-Qmzkurgmy9Muy8HItNQcMYAeANHi/NY4ppOJ/qhTWtrg4mFan+VLX+LEv5DqoYOX1XEabN3m3lLPOEEgUpRr0A==
+vue-router@^3.3.4:
+  version "3.3.4"
+  resolved "https://registry.npmjs.org/vue-router/-/vue-router-3.3.4.tgz#4e38abc34a11c41b6c3d8244449a2e363ba6250b"
+  integrity sha512-SdKRBeoXUjaZ9R/8AyxsdTqkOfMcI5tWxPZOUX5Ie1BTL5rPSZ0O++pbiZCeYeythiZIdLEfkDiQPKIaWk5hDg==
 
 vue-server-renderer@^2.6.11:
   version "2.6.11"
